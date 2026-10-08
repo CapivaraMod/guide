@@ -40,12 +40,10 @@ Mas não se preocupe, o Capivara Mod é feito por cima do TurboWarp, tudo que os
 
 ### Como Começar
 ---
-- O Packager pode ser utilizado diretamente no navegador ou via linha de comando (CLI) para automações.<br>
--   1. Opção 1: Web Interface (Recomendado)Acesse o site oficial do TurboWarp Packager.Carregue o arquivo do seu projeto (.sb3) ou insira o ID de um projeto do Scratch
--   2. Opção 2: Linha de Comando (CLI)Para desenvolvedores avançados que desejam integrar o empacotamento em scripts de build:
-```bash
-npm install -g @turbowarp/packager
-```
+
+para converter o seu jogo feito no capivaramod (scratch ou turbowarp) acesse o site oficial do CapivaraMod Packager.Carregue o arquivo do seu projeto (.sb3) ou insira o ID de um projeto do Scratch.
+
+[CapivaraMod packager](https://capivaramod.github.io/packager)
 ### Configurações Recomendadas
 ---
 - Ao carregar seu projeto, configure as opções no menu lateral conforme as necessidades do seu software:
