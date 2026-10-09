@@ -17,8 +17,8 @@
 ### Exemplos
 
 1. Wikipedia<br>No Capivara Mod temos blocos da Wikipedia.<br>
-![exemplo1](https://github.com/CapivaraMod/guide/blob/main/wikipediaExemplo.png)
-![exemplo2](https://github.com/CapivaraMod/guide/blob/main/wikipediaExemplo2.png)
+![exemplo1](https://raw.githubusercontent.com/CapivaraMod/guide/refs/heads/main/wikipediaExemplo.png)
+![exemplo2](https://raw.githubusercontent.com/CapivaraMod/guide/refs/heads/main/wikipediaExemplo2.png)
 3. As línguas suportadas são: Português, o Inglês e Espanhol<br> 
 4. Manipulação de imagens.<br>
 5. E blocos de calculo, controle de fps e etc...
